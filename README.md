@@ -2,7 +2,7 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| Objective-C와 Swift의 차이 |  |
+| Objective-C와 Swift의 차이 | https://github.com/jeongjae216/Study/wiki/Objective-C%EC%99%80-Swift%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90 |
 | MVC, MVVM, MVP 디자인패턴의 차이 |  |
 | URLSession과 Alamofire의 차이 |  |
 | RxSwift와 Combine은 무엇인가? |  |
