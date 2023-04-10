@@ -6,7 +6,7 @@
 | 2. MVC, MVVM, MVP 디자인패턴의 차이 | https://github.com/jeongjae216/StudyList/wiki/MVC,-MVVM,-MVP-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90 |
 | 3. URLSession과 Alamofire의 차이 | https://github.com/jeongjae216/StudyList/wiki/URLSession%EA%B3%BC-Alamofire%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90 |
 | 4. RxSwift와 Combine은 무엇인가? | https://github.com/jeongjae216/StudyList/wiki/RxSwift,-Combine%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F |
-| 5. OOP란 무엇인가? |  |
+| 5. OOP란 무엇인가? | https://github.com/jeongjae216/StudyList/wiki/OOP(%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F |
 | 6. TDD란 무엇인가? |  |
 | 7. HTTP와 HTTPS의 차이는 무엇인가? |  |
 | 8. 오토레이아웃에서 Frame과 Bounds의 차이 |  |
