@@ -11,7 +11,7 @@
 | 7. HTTP와 HTTPS의 차이는 무엇인가? | https://github.com/jeongjae216/StudyList/wiki/HTTP%EC%99%80-HTTPS%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F |
 | 8. 오토레이아웃에서 Frame과 Bounds의 차이 | https://github.com/jeongjae216/StudyList/wiki/(AutoLayout)-Frame%EA%B3%BC-Bounds%EC%9D%98-%EC%B0%A8%EC%9D%B4 |
 | 9. UI를 코드로 구현하는 방법과 스토리보드를 활용했을때의 장.단점 | https://github.com/jeongjae216/StudyList/wiki/UI%EB%A5%BC-%EC%BD%94%EB%93%9C%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%9E%A5.%EB%8B%A8%EC%A0%90 |
-| 10. 앱의 생명주기는 무엇이며 각 주기마다 역할을 서술할 것 |  |
+| 10. 앱의 생명주기는 무엇이며 각 주기마다 역할을 서술할 것 | https://github.com/jeongjae216/StudyList/wiki/%EC%95%B1%EC%9D%98-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0,-%EA%B0%81-%EC%A3%BC%EA%B8%B0%EB%A7%88%EB%8B%A4%EC%9D%98-%EC%97%AD%ED%95%A0 |
 | 11. Swift에서 고차함수는 어떤것이 있으며 각 함수의 기능을 서술하고 샘플코드와 그에대한 출력값을 쓰시오 (최소 5개) |  |
 | 12. AppDelegate와 SeneDelegate의 차이를 서술하시오 |  |
 | 13. UIkit는 무엇인가 |  |
