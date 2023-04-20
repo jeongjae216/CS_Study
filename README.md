@@ -15,7 +15,7 @@
 | 11. Swift에서 고차함수는 어떤것이 있으며 각 함수의 기능을 서술하고 샘플코드와 그에대한 출력값을 쓰시오 (최소 5개) | https://github.com/jeongjae216/StudyList/wiki/Swift)-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98 |
 | 12. AppDelegate와 SeneDelegate의 차이를 서술하시오 | https://github.com/jeongjae216/StudyList/wiki/AppDelegate%EC%99%80-SeneDelegate%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90 |
 | 13. UIkit는 무엇인가 | https://github.com/jeongjae216/StudyList/wiki/UIkit%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
-| 14. Foundation은 무엇인가 |  |
+| 14. Foundation은 무엇인가 | https://github.com/jeongjae216/StudyList/wiki/Swift)-Foundation%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
 | 15. 클래스와 구조체의 차이는 무엇인가 |  |
 | 16. 상속과 오버라이딩음 무엇인가 |  |
 | 17. SaefArea에 대하여 설명하고 이것을 무시할 수 있는 방법을 코드로 작성하시오 |  |
