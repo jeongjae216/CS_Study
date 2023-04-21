@@ -17,7 +17,7 @@
 | 13. UIkit는 무엇인가 | https://github.com/jeongjae216/StudyList/wiki/Swift)-UIkit%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
 | 14. Foundation은 무엇인가 | https://github.com/jeongjae216/StudyList/wiki/Swift)-Foundation%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
 | 15. 클래스와 구조체의 차이는 무엇인가 | https://github.com/jeongjae216/StudyList/wiki/Swift)-%ED%81%B4%EB%9E%98%EC%8A%A4(Class)%EC%99%80-%EA%B5%AC%EC%A1%B0%EC%B2%B4(Struct)%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90 |
-| 16. 상속과 오버라이딩음 무엇인가 |  |
+| 16. 상속과 오버라이딩은 무엇인가 |  |
 | 17. SaefArea에 대하여 설명하고 이것을 무시할 수 있는 방법을 코드로 작성하시오 |  |
 | 18. 형상관리란 무엇이며 이것이 필요한 이유에 대하여 서술하시오 |  |
 | 19. Array와 Dictionary의 차이에 대하여 서술하시오 |  |
