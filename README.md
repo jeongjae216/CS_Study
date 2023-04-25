@@ -20,7 +20,7 @@
 | 16. 상속과 오버라이딩은 무엇인가 | https://github.com/jeongjae216/StudyList/wiki/%EC%83%81%EC%86%8D%EA%B3%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
 | 17. 상단, 하단 노치 영역의 값을 구해서 코드로 SafeArea에 View 넣는 방법 | https://github.com/jeongjae216/StudyList/wiki/%EC%83%81%EB%8B%A8,-%ED%95%98%EB%8B%A8-%EB%85%B8%EC%B9%98-%EC%98%81%EC%97%AD%EC%9D%98-%EA%B0%92%EC%9D%84-%EA%B5%AC%ED%95%B4%EC%84%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-SafeArea%EC%97%90-View-%EB%84%A3%EB%8A%94-%EB%B0%A9%EB%B2%95 |
 | 18. 형상관리란 무엇이며 이것이 필요한 이유에 대하여 서술하시오 | https://github.com/jeongjae216/StudyList/wiki/%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
-| 19. Array와 Dictionary의 차이에 대하여 서술하시오 |  |
+| 19. Array와 Dictionary의 차이에 대하여 서술하시오 | https://github.com/jeongjae216/StudyList/wiki/Array(%EB%B0%B0%EC%97%B4)%EC%99%80-Dictionary(%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90 |
 | 20. Copy On Write에 대하여 설명하고 에제코드와 출력물을 작성하시오 | https://github.com/jeongjae216/StudyList/wiki/Swift)-Copy-On-Write%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
 | 21. KVO 동작방식을 설명하고 예제코드를 작성하시오 |  |
 | 22. TableView의 동작방식과 화면에 Cell을 그리기 위해 최소한으로 구현해야하는 DataSource 메소드를 설명하시오 |  |
