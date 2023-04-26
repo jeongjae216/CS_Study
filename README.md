@@ -23,6 +23,6 @@
 | 19. Array와 Dictionary의 차이에 대하여 서술하시오 | https://github.com/jeongjae216/StudyList/wiki/Array(%EB%B0%B0%EC%97%B4)%EC%99%80-Dictionary(%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90 |
 | 20. Copy On Write에 대하여 설명하고 에제코드와 출력물을 작성하시오 | https://github.com/jeongjae216/StudyList/wiki/Swift)-Copy-On-Write%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
 | 21. KVO 동작방식을 설명하고 예제코드를 작성하시오 | https://github.com/jeongjae216/StudyList/wiki/Swift)-KVO(Key-Value-Observing)%EC%9D%98-%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D |
-| 22. TableView의 동작방식과 화면에 Cell을 그리기 위해 최소한으로 구현해야하는 DataSource 메소드를 설명하시오 |  |
+| 22. TableView의 동작방식과 화면에 Cell을 그리기 위해 최소한으로 구현해야하는 DataSource 메소드를 설명하시오 | https://github.com/jeongjae216/StudyList/wiki/TableView%EC%9D%98-%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D%EA%B3%BC-%ED%99%94%EB%A9%B4%EC%97%90-Cell%EC%9D%84-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EC%9C%84%ED%95%B4-%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9C%BC%EB%A1%9C-%EA%B5%AC%ED%98%84-%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-DataSource-%EB%A9%94%EC%86%8C%EB%93%9C |
 | 23. Sync와 Async의 차이를 설명하고 예제코드와 출력물을 작성하시오 |  |
 | 24. WWDC가 무엇이고, 왜 IOS개발자가 관심을 가져야 하는지 설명하시오 |  |
