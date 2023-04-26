@@ -22,7 +22,7 @@
 | 18. 형상관리란 무엇이며 이것이 필요한 이유에 대하여 서술하시오 | https://github.com/jeongjae216/StudyList/wiki/%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
 | 19. Array와 Dictionary의 차이에 대하여 서술하시오 | https://github.com/jeongjae216/StudyList/wiki/Array(%EB%B0%B0%EC%97%B4)%EC%99%80-Dictionary(%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90 |
 | 20. Copy On Write에 대하여 설명하고 에제코드와 출력물을 작성하시오 | https://github.com/jeongjae216/StudyList/wiki/Swift)-Copy-On-Write%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
-| 21. KVO 동작방식을 설명하고 예제코드를 작성하시오 |  |
+| 21. KVO 동작방식을 설명하고 예제코드를 작성하시오 | https://github.com/jeongjae216/StudyList/wiki/Swift)-KVO(Key-Value-Observing)%EC%9D%98-%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D |
 | 22. TableView의 동작방식과 화면에 Cell을 그리기 위해 최소한으로 구현해야하는 DataSource 메소드를 설명하시오 |  |
 | 23. Sync와 Async의 차이를 설명하고 예제코드와 출력물을 작성하시오 |  |
 | 24. WWDC가 무엇이고, 왜 IOS개발자가 관심을 가져야 하는지 설명하시오 |  |
