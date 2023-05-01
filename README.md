@@ -29,7 +29,7 @@
 | 25. HTTP의 메소드 중 GET과 POST의 차이를 설명하시오 | https://github.com/jeongjae216/StudyList/wiki/HTTP-%EB%A9%94%EC%86%8C%EB%93%9C)-Get%EA%B3%BC-Post%EC%9D%98--%EC%B0%A8%EC%9D%B4%EC%A0%90 |
 | 26. OAuth2.0은 무엇이며 어떻게 활용하는지 설명하시오 | https://github.com/jeongjae216/StudyList/wiki/OAuth-2.0%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80 |
 | 27. IOS앱 단말이 웹과 통신하는 방법들을 설명하시오 (플러터 등의 크로스 플랫폼 X) |  |
-| 28. 암호화 방식중 대칭키와 비대칭키에 대하여 설명하시오 |  |
+| 28. 암호화 방식중 대칭키와 비대칭키에 대하여 설명하시오 | https://github.com/jeongjae216/StudyList/wiki/%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D)-%EB%8C%80%EC%B9%AD%ED%82%A4%EC%99%80-%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4 |
 | 29. 앱은 어떻게 개발되는 것인가?(기획, 디자인, 설계, 개발, 배포 등 전반적인 흐름에 대하여 서술 할 것) 추가적으로 앱개발과 운영에 필요한게 무엇이고, 본인이 해야할 일은 어떤 것인지 자유롭게 서술하시오. |  |
 | 30. 라이브러리와 프레임워크의 차이를 설명하시오 |  |
 | 31. CI/CD란 무엇인지 설명하시오 |  |
